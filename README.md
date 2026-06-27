@@ -12,7 +12,7 @@ The objective was to transform raw transactional sales data into
 actionable business insights through interactive visualizations 
 and KPI tracking.
 
----
+----
 
 ## 🎯 Business Objectives
 - Track and compare annual sales performance (2022, 2023, 2024)
@@ -22,7 +22,7 @@ and KPI tracking.
 - Set a realistic 2025 sales target based on growth trends
 - Enable dynamic filtering by Month, Year, and Country
 
----
+----
 
 ## 📊 Dashboard Features
 
